@@ -6,9 +6,9 @@ import openai
 import random
 
 #OpenAI api key
-openai.api_key = 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
+openai.api_key = ''
 # Slack API token
-SLACK_API_TOKEN = xoxb-5231824136707-5244594676065-t5ivsDV1umNUbsSV7dKh4x8f
+SLACK_API_TOKEN = ''
 # Slack channel name
 SLACK_CHANNEL = "#general"
 # Maximum number of paper scraping at a time
